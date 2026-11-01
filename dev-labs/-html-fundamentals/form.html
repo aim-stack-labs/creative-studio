@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <!-- Form - Used to Collect User Input Data -->
+     <!-- action="" defines where to send form-data, method="post" secures data -->
+
+     <h1>Form</h1>
+    <form action="" method="post">
+
+        <!-- LABEL - Defines a Label for Input Field, for="name" connects to input id -->
+    <label for="name">Enter Your Name</label><br>
+    <!-- INPUT type="text" - For Single Line Text Input -->
+    <input type="text" id="name" name="name" placeholder="Enter Your Name"><br>
+    <label for="fname">Enter Your Father Name</label><br>
+    <input type="text" id="fname" name="fname" placeholder="Enter Father Name"><br>
+    
+    <label for="number">Enter Your Number</label><br>
+    <!-- INPUT type="Number" - For Numeric Values only -->
+    <input type="number" id="number" name="number" placeholder="0300-0000000"><br>
+
+    <label for="email">Enter Your Email</label><br>
+    <!-- INPUT type=email - Validates Email Format -->
+    <input type="email" id="email" name="email" placeholder="@gmail.com"><br>
+
+    <label for="password">Enter Your Password</label><br>
+    <!-- INPUT type="password" - Hides Characters -->
+    <input type="password" id="password" name="password" placeholder="***********"><br>
+
+    <label for="date">Date Of Birth</label><br>
+    <!-- INPUT type="date" - For Date Picker  -->
+    <input type="date" id="date" name="date"><br>
+    <!-- INPUT type="color" - For Color Picker -->
+    <input type="color" id="color" name="color"><br>
+    Enter Your Gender<br>
+    <!-- INPUT type="radio" - For Single Selection, same name="gender" makes them a group -->
+    <input type="radio" id="male" name="gender">
+    <label for="male">Male</label><br>
+    <input type="radio" id="female" name="gender">
+    <label for="female">Female</label><br>
+    <input type="radio" id="other" name="gender">
+    <label for="other">Prefer Not To Say</label><br>
+    Submit<br>
+    <!-- INPUT type="checkbox" - For Multiple Selection / Agreement -->
+    <input type="checkbox" id="clickme" name="clickme">
+    <label for="clickme">ClickMe</label><br>
+    </form>
+</body>
+</html>
