@@ -20,8 +20,9 @@ All my practice files are inside `dev-labs/-html-fundamentals/` folder.
 | Text Formatting | [View Live](https://aim-stack-labs.github.io/creative-studio/dev-labs/-html-fundamentals/Text-Formatting.html) |
 | Form | [View Live](https://aim-stack-labs.github.io/creative-studio/dev-labs/-html-fundamentals/form.html) |
 | OL, UL & DL Lists | [View Live](https://aim-stack-labs.github.io/creative-studio/dev-labs/-html-fundamentals/ol,ul&dl.html) |
-| Canva Posts | [View Live](https://aim-stack-labs.github.io/creative-studio/canva-posts/) |
-| Video edits | [View Live](https://aim-stack-labs.github.io/creative-studio/video-edits/) |
+| | Canva Posts | [View Live](https://aim-stack-labs.github.io/creative-studio/canva-posts/) |
+| Video Edits | [View Live](https://aim-stack-labs.github.io/creative-studio/video-edits/) |
+| Verified Credentials | [View Live](https://aim-stack-labs.github.io/creative-studio/Verified-credentials/) |
 
 ---
 
