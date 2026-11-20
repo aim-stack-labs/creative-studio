@@ -7,7 +7,7 @@ Welcome to my creative work repository! Here I practice HTML fundamentals, Canva
 
 ---
 
-### 📚 HTML Fundamentals - My Projects
+- My Projects
 
 All my practice files are inside `dev-labs/-html-fundamentals/` folder.
 
