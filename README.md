@@ -1,13 +1,20 @@
-# 🎨 Creative Studio - By Aiman Sheikh
+# 🎨✨ Welcome to My Creative Studio!
 
-Welcome to my creative work repository! Here I practice HTML fundamentals, Canva posts, and video edits.
+### Where Ideas Become Art! 💖🌈
+
+> Hi! I'm **Aiman Sheikh** - Creative Graphic Designer & Full Stack Developer from **Gujranwala, Pakistan** 🇵🇰
+
+This is my creative work repository! Here I practice HTML, CSS, Bootstrap share my Canva Posts, Video Edits & Web Projects. 💻🎬
+
+---
 
 ### 🌐 Live Website:
+
 **[Click Here to View My Live Website](https://aim-stack-labs.github.io/creative-studio/)**
 
 ---
 
-- My Projects
+### 💻 My Projects
 
 All my practice files are inside `dev-labs/-html-fundamentals/` folder.
 
@@ -19,9 +26,40 @@ All my practice files are inside `dev-labs/-html-fundamentals/` folder.
 
 ---
 
-### 📂 Other Work
-- `Verified-credentials`
-- `canva-posts`
-- `video-edits`
+### 📂 What's Inside My Studio?
+
+#### 🎨 1. Canva-Posts
+My beautiful Canva designs, Social Media Posts, Logos & Thumbnails.
+
+#### 🎬 2. Video-Edits
+My Video Edits, Reels, Shorts & Thumbnails.
+
+#### 📜 3. Verified-Credentials
+My Verified Certificates & Achievements - TEVTA, Digiskills & More! 🏆
+
+#### 💻 4. Dev-Labs
+My All Programming Practice, Web Projects & Coding Journey. 🚀
+
+---
+
+### 🛠️ What I Use
+
+**Design:** Canva | Photoshop | Illustrator
+**Editing:** CapCut | Video Editing
+**Code:** HTML | CSS | JavaScript | Python
+
+---
+
+### 🌸 About Me
+
+🎓 BSIT 3rd Semester - Virtual University
+🎨 Graphic Designer | 🎬 Video Editor | 💻 Developer
+📍 Gujranwala, Pakistan
+
+---
+
+### 💖 Thank You!
+
+> ✨ "Every design tells a story, every code builds a dream." ✨
 
 Made with ❤️ by Aiman Sheikh | AIM Stack Labs
