@@ -1,17 +1,22 @@
-AIMAN SHEIKH | CREATIVE STUDIO
-Creative Technologist | Visual Designer | Video Editor
-Transforming Ideas Into Stunning Visuals
-ABOUT ME:
-I am a Creative Technologist and Full Stack Development Student at TEVTA LESC, Gujranwala. I create clean, modern and client-focused designs that help brands grow.
-WHAT I DO??
-Graphic Designing - Social Media Posts, Posters, Logos, Brand Kits, YouTube Thumbnails
-Video Editing - Reels, Shorts, Promo Videos, Smooth Transitions, Audio Sync
-PORTFOLIO:
-My Canva Designs in /canva-posts
-My Video Edits in /video-edits
-TOOLS:
-Canva, CapCut, GitHub, VS Code
-CONTACT:
-Email: aimansheikh0607@gmail.com
-Location: Gujranwala, Pakistan
-Available for freelance work and collaborations.
+✨ Hello Everyone! ✨
+
+🎬 I'm a Creative Video Editor & Full Stack Development Student
+
+📍 Currently Studying: Full Stack Development at TEVTA - LESC
+💼 Internship Experience: Learning Hub College
+
+🎥 What I Do:
+✅ Professional Video Editing in CapCut
+✅ Reels / Shorts / Promotional Videos
+✅ UI Design Videos & Website Showcases
+✅ Smooth Transitions, Text Animations & Trending Effects
+✅ Social Media Content Creation
+
+🌟 During my Internship at Learning Hub College, I edited multiple videos for Social Media, College Promotions, and Educational Content. I learned how to make videos that are not just beautiful, but also engaging and professional.
+
+💡 I believe a good video tells a story in just 30 seconds!
+
+📩 If you need Video Editing, Reels Editing, or Content for your Business / College / Page, feel free to contact me. I would love to work with you!
+
+Thank You So Much! 💖
+Let's Create Something Amazing Together! 🚀
