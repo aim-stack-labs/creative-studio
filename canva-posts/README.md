@@ -1,15 +1,36 @@
-CANVA POSTS | GRAPHIC DESIGN PORTFOLIO:
-By Aiman Sheikh - Visual Designer
-Welcome to my graphic design collection. All designs are original and created with a focus on clean layout, modern typography and brand consistency.
-WHAT YOU WILL FIND HERE
-Social Media Posts and Stories
-Posters and Flyers
-Logos and Brand Kits
-YouTube Thumbnails
-Business Branding
-TOOLS USED:
-Canva
-DESIGN APPROACH
-I focus on simple, attractive and client-focused designs that deliver a clear message and help businesses grow.
-CONTACT FOR WORK:
-Email: aimansheikh6607@gmail.com
+✨ Hello Everyone! ✨
+
+✨ Hello Everyone! ✨
+
+👩‍💻 I'm Aiman - A Creative Graphic Designer, Video Editor & Full Stack Developer
+
+🎓 Full Stack Development
+🎓 Office Management
+🎓 Graphic Designing
+🎓 Digital Literacy
+🎓 C++
+🎓 Communication Skills
+💼 Experience Letter: Learning Hub College
+🚀 Currently Working on Freelancing
+
+🎨 What I Do in Canva:
+✅ Professional Social Media Posts
+✅ Promotional Posts & Flyers
+✅ Beautiful Posters & Banners
+✅ Certificates & Award Designs
+✅ Business Cards & Invitation Cards
+✅ College / Event Promotions
+
+🌟 I have designed 7-8+ Professional Posts, Flyers, and Certificates in Canva. During my Internship at Learning Hub College, I created designs for Social Media, Events, and Promotions.
+
+💡 I believe a good design speaks before words do!
+
+🎯 My Designs Are:
+✨ Clean & Modern
+✨ Eye-Catching & Colourful
+✨ Professional & Ready for Social Media
+
+📩 If you need a Poster, Flyer, Certificate, Promotional Post, or Any Graphic Design for your Business / College / Page, feel free to contact me. I would love to design for you!
+
+Thank You So Much! 💖
+Let's Create Something Beautiful Together! 🚀🎨
