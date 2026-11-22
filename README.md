@@ -24,7 +24,7 @@ All my practice files are inside `dev-labs/-html-fundamentals/` folder.
 | Video Edits | [View Live](https://aim-stack-labs.github.io/creative-studio/video-edits/) |
 | Verified Credentials | [View Live](https://aim-stack-labs.github.io/creative-studio/Verified-credentials/) |
 | UI-UX Designs | [View Live](https://aim-stack-labs.github.io/creative-studio/UI-UX-Portfolio/) |
-
+| 🎬 UI Design Videos | [View Live](https://aim-stack-labs.github.io/creative-studio/UI-UX-Portfolio/UI-Videos/) |
 ---
 
 ### 📂 What's Inside My Studio?
