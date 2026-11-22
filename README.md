@@ -23,7 +23,7 @@ All my practice files are inside `dev-labs/-html-fundamentals/` folder.
 | Canva Posts | [View Live](https://aim-stack-labs.github.io/creative-studio/canva-posts/) |
 | Video Edits | [View Live](https://aim-stack-labs.github.io/creative-studio/video-edits/) |
 | Verified Credentials | [View Live](https://aim-stack-labs.github.io/creative-studio/Verified-credentials/) |
-| UI-UX Designs | [View Live](UI-UX-Portfolio/) |
+| UI-UX Designs | [View Live](https://aim-stack-labs.github.io/creative-studio/UI-UX-Portfolio/) |
 
 ---
 
