@@ -23,6 +23,7 @@ All my practice files are inside `dev-labs/-html-fundamentals/` folder.
 | Canva Posts | [View Live](https://aim-stack-labs.github.io/creative-studio/canva-posts/) |
 | Video Edits | [View Live](https://aim-stack-labs.github.io/creative-studio/video-edits/) |
 | Verified Credentials | [View Live](https://aim-stack-labs.github.io/creative-studio/Verified-credentials/) |
+| UI-UX Designs | [View Live](UI-UX-Portfolio/) |
 
 ---
 
@@ -40,13 +41,15 @@ My Verified Certificates & Achievements - TEVTA, Digiskills & More! 🏆
 #### 💻 4. Dev-Labs
 My All Programming Practice, Web Projects & Coding Journey. 🚀
 
+#### 🎨 5. UI-UX Designs
+My UI-UX Designs, Wireframes, Prototypes & App Designs.
 ---
 
 ### 🛠️ What I Use
 
 **Design:** Canva | Photoshop | Illustrator
 **Editing:** CapCut | Video Editing
-**Code:** HTML | CSS | JavaScript | Python
+**Code:** HTML | CSS | JavaScript | Bootstrap
 
 ---
 
